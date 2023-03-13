@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Maycon wallas. 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconwallas)](https://github.com/mayconwallas/Portfolio)
+[![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconwallas)](https://github.com/mayconwallas/Portfolio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconwallas&layout=compact)](https://github.com/mayconwallas/Portfolio)
 
