@@ -7,7 +7,7 @@
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconwallas&repo=Portfolio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconwallas&repo=Portfolio&theme=dark)](https://mayconwallas.github.io/Portfolio/)
 
 
 <div style="display: inline_block"><br>
