@@ -1,39 +1,29 @@
-## Olá! Meu nome é Maycon wallas. 👋
+# Olá, sou Maycon Wallas 👋
 
-[![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconwallas)](https://github.com/mayconwallas/Portfolio)
+Desenvolvedor Front-End apaixonado por JavaScript, React e experiência do usuário.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconwallas&layout=compact)](https://github.com/mayconwallas/Portfolio)
+🚀 Atualmente estudando:
+- React
+- TypeScript
+- Node.js
 
-## Tecnologias e Ferramentas
+💻 Principais Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-<div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+📌 Projetos em Destaque:
+- Sistema de Controle Financeiro
+- Clone Netflix
+- Dashboard Administrativo
+- API de Tarefas
 
-## Aprendendo
-
-<div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-
-## Quero estudar
-
-<div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-</div>
+📫 Contato:
+LinkedIn
+Email
+Portfolio
 
 ## Projetos javascript
 
